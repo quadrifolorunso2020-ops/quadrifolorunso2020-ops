@@ -41,6 +41,6 @@ Transfer learning-based generative design with machine learning-guided virtual s
 ## 🌍 Interests
 Antimicrobial resistance · Tuberculosis and viral diseases · Neurodegenerative disease · Natural-product drug discovery · AI-driven drug discovery · Open science
 
-## 📫 Connect
+## 📫 Connecthttps://www.linkedin.com/in/quadri-ayobami-184b6222a?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - LinkedIn: [add your LinkedIn link here]
 - Email: quadrifolorunso2020@gmail.com
